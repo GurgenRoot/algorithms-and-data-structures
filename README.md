@@ -1,6 +1,6 @@
 # algorithms-and-data-structures
 
-## The Simplest Explanation of Algorithms in JavaScript
+# <span style="color: #4d8eff;">The Simplest Explanation of Algorithms in JavaScript</span>
 
 To understand algorithms in JavaScript, let's break it down in the simplest terms:
 
@@ -10,6 +10,6 @@ To understand algorithms in JavaScript, let's break it down in the simplest term
 4. By organizing code into logical sequences, loops, and conditional statements, algorithms can be created to perform specific tasks.
 5. Testing and refining the algorithm is essential to ensure it produces the desired output.
 
-Remember to provide further details and examples to make your explanation comprehensive and helpful.
+> <span style="font-style: italic;">Remember to provide further details and examples to make your explanation comprehensive and helpful.</span>
 
-Happy coding!
+<span style="font-size: 16px;">Happy coding!</span>
